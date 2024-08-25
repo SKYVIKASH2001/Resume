@@ -1,0 +1,49 @@
+.front-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #EEF7FF;  
+    height: 600px;
+    width: 100%;
+}
+.content h1{
+    color: #1A2130;
+    font-size: 50px;
+    padding: 10px;
+    margin-top: -20px;
+}
+.content p{
+    width: 500px;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 15px;
+    margin: 15px;
+
+}
+.btn{
+    background-color: #3ABEF9;
+    color: white;
+    height: 40px;
+    width: 120px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.front-img{
+    display: flex;
+    gap: 20px;
+    width: 600px;
+    height: 500px;
+
+}
+.front-img .img1{
+    width: 100%;
+    height: 100%; 
+    box-shadow: 5px 5px 5px #FFEC9E; 
+}
+.img1:hover{
+    transition: 0.5s;
+    width: 98%;
+    height: 98%;
+}

@@ -1,0 +1,362 @@
+
+body{
+    background-color: gray;
+}
+.first-container{
+    background-color: white;
+    box-shadow: 5px 5px 5px yellow;
+    width: 70%;
+    height: 1500px;
+    margin: 45px auto;
+
+}
+.second-container{
+    width: 75%;
+    height: 120px;
+    margin:50px auto;
+    border-radius: 10px;
+    padding-top: 70px;
+}
+.first-input{
+    display: block;
+    width: 200px;
+    height: 50px;
+    margin: 2px auto;
+    border: none;
+    outline: none;
+    font-size: 30px;
+}
+.second-input{
+    display: block;
+    width: 280px;
+    height: 20px;
+    margin: 0px auto;
+    border: none;
+    outline: none;
+    font-size: 20px;
+}
+.detail ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 5px 0;
+}
+.third-input{
+    width: 100px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    margin-top: 15px;
+
+}
+#third{
+    width:180px;
+}
+.third-container{
+    height: 80px;
+    width: auto;
+    margin-top: 18px;
+    border-radius: 10px;
+}
+.fourth-input{
+ display: block;
+width: 280px;
+height: 45px;
+margin: 0px auto;
+border: none;
+outline: none;
+font-size: 35px;
+border-radius: 10px;
+}
+.fourth{
+    width: 98%;
+    height: 32px;
+    border: none;
+    outline: none;
+    margin-left: 10px;  
+
+}
+.tenth-container{
+    height: 190px;
+    width: auto;
+    margin-top: 18px;
+    border-radius: 10px;
+
+}
+.tenth-input{
+    display: block;
+    width: 370px;
+    height: 45px;
+    margin: 0px auto;
+    border: none;
+    outline: none;
+    font-size: 35px;
+    border-radius: 10px;
+
+}
+.tenth1{
+    width: 98%;
+    height: 32px;
+    border: none;
+    outline: none;
+    margin-left: 10px;
+
+}
+.fourth-container{
+    height: 80px;
+    width: auto;
+    margin-top: 18px;
+    border-radius: 10px;
+}
+.fifth-input{
+    display: block;
+    width: 280px;
+    height: 45px;
+    margin: 0px auto;
+    border: none;
+    outline: none;
+    font-size: 35px;
+    border-radius: 10px;
+    
+}
+.fifth{
+    width: 98%;
+    height: 28px;
+    border: none;
+    outline: none;
+    margin-left: 10px; 
+    overflow: auto;
+}
+.fifth-container{
+    height: 190px;
+    width: auto;
+    margin-top: 18px;
+    border-radius: 10px;
+
+}
+.sixth-input{
+    display: block;
+    width: 280px;
+    height: 40px;
+    margin: 0px auto;
+    border: none;
+    outline: none;
+    font-size: 35px;
+    border-radius: 10px;
+}
+.sixth1{
+    height: 40px;
+    width: 50%;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    margin-left: 10px;
+}
+.sixth2{
+    height: 25px;
+    width: 40%;
+    font-size: 15px;
+    float: right;
+    border: none;
+    outline: none;
+}
+.sixth3{
+    height: 40px;
+    width: 50%;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    margin:  -5px 0 0 10px;
+
+}
+.sixth4{
+    height: 38px;
+    width: 70%;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    margin:-5px 0 0 10px;  
+
+}
+.sixth5{
+    
+    height: 20px;
+    width: 60%;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    margin: 5px 0 0 15px;  
+
+}
+.sixth-container{
+    height:190px;
+    width: auto;
+    margin-top: 18px;
+    border-radius: 10px;
+
+
+}
+.seventh-input{
+    display: block;
+    width: 280px;
+    height: 40px;
+    margin: 0px auto;
+    border: none;
+    outline: none;
+    font-size: 35px;
+    border-radius: 10px;
+
+}
+.seven1{
+    height: 30px;
+    width: 60%;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    margin: 10px 0 0 15px; 
+    padding-left: 5px;
+    font-size: 20px;
+
+}
+.seven2{
+    height: 30px;
+    width: 60%;
+    font-size: 16px;
+    margin: 5px 0 0 15px;
+    border: none;
+    outline: none;
+    padding-left: 5px;
+
+}
+.seven3{
+    height: 30px;
+    width: 14%;
+    font-size: 16px;
+    margin: 10px 0 0 15px;
+    float: inline-end;
+    padding-left:5px;
+
+}
+#seven33{
+    padding-left: 30px;
+}
+.seven4{
+    height: 30px;
+    width: 60%;
+    font-size: 16px;
+    margin: 10px 0 0 15px;
+    border: none;
+    outline: none;
+    padding-left: 1px;
+
+}
+.seven5{
+    height: 30px;
+    width: 60%;
+    font-size: 16px;
+    margin: 10px 0 0 15px;
+    border: none;
+    outline: none;
+    padding-left: 5px;
+}
+.seven6{
+    height: 30px;
+    width: 14%;
+    font-size: 16px;
+    margin: 5px 0 0 15px;
+    float: inline-end;
+    padding-left:auto;
+
+}
+#seven666{
+    width: 14%;
+    padding-left: 5px;
+}
+#seven66{
+    padding-left: 30px;
+}
+.seventh-container{
+    height:190px;
+    width: auto;
+    margin-top: 18px;
+    border-radius: 10px;
+    
+}
+.Ninth-input{
+    display: block;
+    width: 60%;
+    height: 40px;
+    margin: 10px auto;
+    border: none;
+    outline: none;
+    font-size: 35px;
+    border-radius: 10px;
+
+}
+.ninth-input{
+    height: 30px;
+    width: 59.5%;
+    font-size: 16px;
+    margin: 10px 0 0 15px;
+    border: none;
+    outline: none;
+    padding-left: 5px;
+}
+.ninth1{
+    width: 14%;
+    height: 30px;
+    padding-left:8px;
+    font-size: 18px;   
+    margin-left: 70px;
+
+
+}
+.ninth2{
+    
+    width: 14%;
+    height: 30px;
+    padding-left: 5px;
+    font-size: 17px;
+    margin-left: 13px;
+    
+}
+.Eight-container{
+    height:180px;
+    width: auto;
+    margin-top: 18px;
+    border-radius: 10px;
+
+}
+.Eighth-input{
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+    border: none;
+    outline: none;
+    font-size: 35px;
+    border-radius: 10px;
+    text-align: center;
+
+
+}
+.eight1{
+    width: 10%;
+    display: inline-block;
+    padding-left: 10px;
+
+
+}
+
+.eight2{
+    margin-top: 10px;
+    height: 35px;
+    width: 85%;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding-left: 15px;
+    
+
+}
+
+

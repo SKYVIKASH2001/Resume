@@ -1,0 +1,51 @@
+
+.first-container-sign{
+    height: 500px;
+    width: 27%;
+    box-shadow: 5px 5px 5px 5px rgb(170, 208, 34);
+    margin: 60px auto;
+    background-color: white;
+    padding-top: 40px;
+}
+.first-container-sign>.head{
+    text-align: center;
+}
+/* .first-container-sign h1:hover{
+    color: #6420AA;
+    transition: 0.4s;
+    font-size: 40px;
+} */
+.details{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+.inputs{
+    height:40px;
+    width: 80%;
+    margin-top: 10px;
+    border-radius: 5px;
+    /* border: none; */
+    padding-left: 10px;
+    color: black;
+}
+.btn{
+    height: 40px;
+    width: 130px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 600;
+    border: none;
+    margin: 8px auto;
+}
+.btn:hover{
+    background-color: blue;
+    color: white;
+    transition: 0.5s;
+    height: 45px;
+    width: 135px;
+
+}
